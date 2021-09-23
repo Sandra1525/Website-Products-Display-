@@ -1,4 +1,4 @@
-# The Website-Products-Display-
+# Website-Products-Display-
 Product display
  or product landing page
  is an exciting project
